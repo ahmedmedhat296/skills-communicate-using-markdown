@@ -4,3 +4,6 @@
 ``` cpp
  int var = 6;
 ```
+- [x] take the first course on github
+- [x] take the second course on github
+- [ ] take the third course on github
